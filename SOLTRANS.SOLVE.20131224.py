@@ -1,6 +1,6 @@
 """
-This code simulates solute (soil water containing a radionuclide) transport is
-a soil column. The advection-dispersion model was adopted from Ireson & Butler
+This code simulates radionuclide transport in soil column.
+The advection-dispersion model was adopted from Ireson & Butler
 (2008): The effect of sorption on radionuclide uptake for different soil textu
 -ers.
 An implicit (backward Euler) forward finite difference scheme is used. This 
